@@ -1,7 +1,6 @@
 """
 Critical lesson for us due to the data we handle
-
-create a dict
+necreate a dict
 update a dict
 list the keys
 retreive the values based on the key
